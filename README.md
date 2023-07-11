@@ -1,2 +1,2 @@
 # curso_git
-Repositírio do curso de git na Udemy
+Repositório do curso de git na Udemy
