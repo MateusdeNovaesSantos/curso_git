@@ -10,5 +10,8 @@ stash{
 }
 
 tag{
-    
+    git tag
+    git tag -a v1.0 -m "comentário"
+    git show {tagName}
+    git checkout {tagName}
 }
