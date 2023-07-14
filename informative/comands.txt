@@ -1,0 +1,11 @@
+git show
+git diff
+git clean
+git archive --format zip --output arquivos_main.zip main
+
+comandos de rotina{
+    git merge main // so na branch
+    git pull  
+    git gc
+    git fsck
+}
