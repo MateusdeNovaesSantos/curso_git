@@ -1,5 +1,0 @@
-comandos de log{
-    git log
-    git short log
-    git reflog
-}
