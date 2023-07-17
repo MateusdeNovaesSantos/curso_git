@@ -1,8 +1,0 @@
-tag{
-    git tag
-    git tag -a v1.0 -m "comentário"
-    git show {tagName}
-    git checkout {tagName}
-    git push origin {tagName}
-    git push origin --tags
-}
